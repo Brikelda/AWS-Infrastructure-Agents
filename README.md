@@ -1,6 +1,7 @@
 # AWS-Infrastructure-Agents
 AWS Cloud Infrastructure integrating Java Agents
-Project Overview: Simulating an agents’ attack (using Java) towards a TCP Server on AWS with initial aim to overload it 
+This was a Lab Report for the Network Programming and Distributed Systems Course. The Project Overview is as follows:
+Simulating an agents’ attack (using Java) towards a TCP Server on AWS with initial aim to overload it 
 and then extending the cloud architecture to efficiently and effectively control the load. The Java agents and TCP Server 
 were implemented into separate EC2 Instances, which were integrated with CloudWatch. The architecture was later 
 extended by adding a Network Load Balancer and Auto Scaling.
